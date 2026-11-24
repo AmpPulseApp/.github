@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://amppulse.netlify.app/"><img src="https://img.shields.io/badge/website-amppulse.netlify.app-0e7490?style=flat-square&labelColor=1a1f26" alt="Website" /></a>
-  <a href="https://github.com/AmpPulseApp/amppulse/releases/latest"><img src="https://badgen.net/github/release/AmpPulseApp/amppulse?label=latest&color=green&labelColor=1a1f26" alt="Latest Release" /></a>
+  <a href="https://github.com/AmpPulseApp/amppulse/releases/latest"><img src="https://badgen.net/github/release/AmpPulseApp/amppulse?label=latest&color=1E7A34&labelColor=1a1f26" alt="Latest Release" /></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-166e7d?style=flat-square&labelColor=1a1f26" alt="Platform" />
   <img src="https://img.shields.io/badge/telemetry-zero-147a52?style=flat-square&labelColor=1a1f26" alt="Zero Telemetry" />
 </p>
