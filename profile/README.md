@@ -35,4 +35,8 @@
 * **Zero Telemetry & No Accounts:** No analytics, no tracking, no login, and no newsletter signups. Your favorites and playlists stay locally on your machine.
 * **Freemium Done Fairly:** Free **Lite** version with zero ads, or an optional one-time **Pro** purchase for v1.x—never a subscription.
 
+### Start here
+- Releases & support: https://github.com/AmpPulseApp/amppulse
+- Website: https://amppulse.netlify.app
+
 > **Note:** AmpPulse is closed-source software. Official downloads, changelogs, and issue tracking live in the [`amppulse`](https://github.com/AmpPulseApp/amppulse) repository.
