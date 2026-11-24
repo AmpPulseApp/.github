@@ -6,14 +6,10 @@
 *A modern, ultra-lightweight desktop audio & internet radio player built with Rust & Tauri.*
 
 <p>
-  <a href="https://amppulse.netlify.app/">
-    <img src="https://img.shields.io/badge/website-amppulse.netlify.app-00d4ff?style=flat-square&labelColor=1a1f26" alt="Website" />
-  </a>
-  <a href="https://github.com/AmpPulseApp/amppulse/releases/latest">
-    <img src="https://img.shields.io/github/v/release/AmpPulseApp/amppulse?style=flat-square&color=23d18b&labelColor=1a1f26&label=latest" alt="Latest Release" />
-  </a>
+  <a href="https://amppulse.netlify.app/"><img src="https://img.shields.io/badge/website-amppulse.netlify.app-0e7490?style=flat-square&labelColor=1a1f26" alt="Website" /></a>
+  <a href="https://github.com/AmpPulseApp/amppulse/releases/latest"><img src="https://img.shields.io/github/v/release/AmpPulseApp/amppulse?style=flat-square&color=147a52&labelColor=1a1f26&label=latest" alt="Latest Release" /></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-166e7d?style=flat-square&labelColor=1a1f26" alt="Platform" />
-  <img src="https://img.shields.io/badge/telemetry-zero-23d18b?style=flat-square&labelColor=1a1f26" alt="Zero Telemetry" />
+  <img src="https://img.shields.io/badge/telemetry-zero-147a52?style=flat-square&labelColor=1a1f26" alt="Zero Telemetry" />
 </p>
 
 <p>
@@ -26,7 +22,7 @@
 
 <br />
 
-<img src="./assets/amppulse-dark.png" alt="AmpPulse Desktop Player" width="540" />
+<img src="../assets/amppulse-dark.png" alt="AmpPulse Desktop Player" width="540" />
 
 </div>
 
